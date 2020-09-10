@@ -68,6 +68,11 @@ footer{padding:50px 0;background:#3498db;}.copyright{padding-top:20px}
 #about h2{color:#374054}
 #about p{color:#74808a;margin:0}
 
+#cheatsheets{padding:75px 15px;border-bottom:1px solid #dcd9d9}
+#cheatsheets h2{color:#374054}
+#cheatsheets p{color:#74808a;margin:0}
+#cheatsheets li{font-size:20px;font-weight:bold;margin:5px;}
+
 #experience{padding:50px 15px;text-align:center;border-bottom:1px solid #dcd9d9}
 #experience h2{color:#374054}
 #experience-timeline{margin:30px auto 0 auto;position:relative;max-width:1000px}
@@ -144,6 +149,8 @@ footer{padding:50px 0;background:#3498db;}.copyright{padding-top:20px}
 #lead-content h2{font-size:1.75em}
 #about{text-align:center}
 #about p{text-align:left}
+#cheatsheets{text-align:center}
+#cheatsheets p{text-align:left}
 }
 
 @media only screen and (max-width: 768px)
